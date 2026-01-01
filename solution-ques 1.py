@@ -1,1 +1,1 @@
-as sdkkk awdeijef
+print("Hello from Pyodide!")
